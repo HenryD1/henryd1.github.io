@@ -6,28 +6,25 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Demo Website!
 
 # Your name to show in the footer
-author: Some Person
+author: Henry Dowling
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Something I like: "https://fishrandom.io/"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/mondrian.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -39,10 +36,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "hdowling@college.harvard.edu"
+  facebook: henrydowling11
+  github: henryd1
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -55,7 +51,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+  carrier pigeon: Caw caw... caw
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
@@ -63,7 +59,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -119,9 +115,9 @@ footer-link-col: "#404040"
 #site-css:
 #  - "/assets/css/custom-styles.css"
 
-# --- Web Analytics Section --- #
+#--- Web Analytics Section --- #
 
-# Fill in your Google Analytics gtag.js ID to track your website using gtag
+#Fill in your Google Analytics gtag.js ID to track your website using gtag
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
